@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690351035 source:c:\code\addition of data in linkedlist\main.cpp
+	<iostream>
+	<stdlib.h>
+

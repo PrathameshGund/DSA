@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690272368 source:c:\code\linked list traversal\main.cpp
+	<iostream>
+	<stdlib.h>
+

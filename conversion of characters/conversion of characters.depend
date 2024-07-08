@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689918793 source:c:\code\conversion of characters\main.cpp
+	<iostream>
+	<stdlib.h>
+

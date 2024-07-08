@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713420324 source:c:\code\bst\main.cpp
+	<iostream>
+	<queue>
+

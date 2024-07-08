@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691390353 source:c:\code\sorting of linkedlist\main.cpp
+	<iostream>
+	<stdlib.h>
+
